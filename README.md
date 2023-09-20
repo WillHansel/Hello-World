@@ -22,7 +22,7 @@ print ("Hello-World")
 I did not use any data files but here is some *Italicized Text*
 
 # Additional Documentation
-None, but here is a link to see [what time it is around the world] (https://www.timeanddate.com/worldclock/)
+None, but here is a link to see [what time it is around the world](https://www.timeanddate.com/worldclock/)
 
 # Versioning
 I used python code language.
